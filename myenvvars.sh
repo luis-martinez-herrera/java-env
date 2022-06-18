@@ -1,7 +1,7 @@
 #export JAVA_HOME=/home/dev/libs/jdk-11.0.13
 #export PATH=$PATH:$JAVA_HOME/bin
 
-export PATH="$HOME/.jenv/bin:$PATH"
+export PATH="$HOME/libs/jenv/bin:$PATH"
 eval "$(jenv init -)"
 
 export MAVEN_HOME=/home/dev/libs/apache-maven-3.8.5
